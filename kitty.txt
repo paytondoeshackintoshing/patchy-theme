@@ -1,0 +1,58 @@
+# Window Opacity and Spacing
+background_opacity         0.75
+dynamic_background_opacity yes
+window_padding_width       12
+
+# Color Palette (Patchouli Violet Theme)
+background            #16121f
+foreground            #f1eef5
+cursor                #b57edc
+cursor_text_color     #16121f
+selection_background  #4a3a5c
+selection_foreground  #f1eef5
+
+# Tab Bar Colors
+active_tab_background   #8a3d9a
+active_tab_foreground   #f1eef5
+inactive_tab_background #251d33
+inactive_tab_foreground #a69bb5
+
+# Terminal Color Scheme (Normal + Bright)
+# Black (Dark Violets)
+color0 #16121f
+color8 #342845
+
+# Red (Ribbon Rose / Magenta)
+color1 #d15184
+color9 #e06b9a
+
+# Green (Soft Muted Sage)
+color2  #70a38d
+color10 #8ec4ad
+
+# Yellow (Pale Hair Blonde)
+color3  #e3c781
+color11 #f2dba2
+
+# Blue (Deep Magic Indigo)
+color4  #637ec7
+color12 #829de6
+
+# Magenta (Patchouli Purple)
+color5  #8a3d9a
+color13 #b062c2
+
+# Cyan (Cool Mystic Teal)
+color6  #5da8b3
+color14 #7ecbd6
+
+# White (Dress Cream)
+color7  #e2dbec
+color15 #ffffff
+
+# BEGIN_KITTY_FONTS
+font_family      family="JetBrainsMono Nerd Font Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
